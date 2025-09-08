@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="none">
+  <circle cx="18" cy="18" r="17" fill="#fff"/>
+  <path fill="url(#a)" fill-rule="evenodd" d="M18 36a18 18 0 1 0 0-36 18 18 0 0 0 0 36Zm10.09-17.08-4.99 2.89a.86.86 0 0 1-.86 0l-1.87-1.09v-2.7l2.3 1.32 3.5-2.02v-4.04l-3.5-2.02-3.43 1.99-.07.03v10.3a.86.86 0 0 1-.42.74l-5 2.88a.86.86 0 0 1-.85 0l-4.99-2.88a.86.86 0 0 1-.43-.74v-5.76a.86.86 0 0 1 .43-.74l4.99-2.89a.86.86 0 0 1 .86 0l1.88 1.09v2.71l-2.31-1.33-3.5 2.02v4.04l3.5 2.02 3.5-2.02v-10.3a.86.86 0 0 1 .43-.74l4.98-2.88a.86.86 0 0 1 .86 0l4.99 2.88c.26.15.43.44.43.74v5.76a.86.86 0 0 1-.43.74Z" clip-rule="evenodd"/>
+  <defs>
+    <linearGradient id="a" x1="-6.58" x2="30.59" y1="2.96" y2="25.7" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A229C5"/>
+      <stop offset="1" stop-color="#7B3FE4"/>
+    </linearGradient>
+  </defs>
+</svg>
